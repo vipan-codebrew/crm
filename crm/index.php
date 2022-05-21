@@ -51,7 +51,7 @@
   <header class="masthead text-center text-white">
     <div class="masthead-content">
       <div class="container">
-        <h1 class="masthead-heading mb-0">@BIG-SMALL CRM</h1>
+        <h1 class="masthead-heading mb-0">BIG CRM</h1>
         <h2 class="masthead-subheading mb-0">Developed using PHP & MySQL</h2>
         <a href="registration.php" class="btn btn-primary btn-xl rounded-pill mt-5">User Signup</a>
       </div>
